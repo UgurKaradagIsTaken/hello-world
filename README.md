@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# Ugur Karadag
+My friends simply call me UK
